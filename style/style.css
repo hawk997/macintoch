@@ -572,10 +572,13 @@ li{
 }
 /* <div class="project-main-content"> */
 .project-main-content-slide{
-    background: #fff;
+    background: #f5f5f5;
 }
 .project-main-content-slide .skills-content{
     text-align: left;
+}
+.project-main-content{
+    background: #f5f5f5;
 }
 .project-main-content .slide-content{
     padding-top: 0;
@@ -601,7 +604,31 @@ li{
 }
 /* <div class="project-main-content"> */
 
-
+.rowww{
+    margin: 0;
+    padding: 60px 0;
+    background: #007d2f;
+}
+.project-main-content .carousel-control-next-icon{
+    position: absolute;
+    top: 780px;
+}
+.project-main-content .carousel-control-prev{
+    position: absolute;
+    top: 650px;
+}
+.project-main-content .carousel-indicators{
+    margin: 0;
+    position: absolute;
+    bottom: 115px;
+}
+.project-main-content .carousel-indicators .active{
+    width: 6px;
+    height: 6px;
+}
+.project-main-content .carousel-indicators li{
+    border-radius: 0%;
+}
 
 
 /*/////////////////////////////////// <main class="main"> ////////////////////////*/

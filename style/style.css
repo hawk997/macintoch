@@ -611,16 +611,16 @@ li{
 }
 .project-main-content .carousel-control-next-icon{
     position: absolute;
-    top: 780px;
+    top: 950px;
 }
 .project-main-content .carousel-control-prev{
     position: absolute;
-    top: 650px;
+    top: 960px;
 }
 .project-main-content .carousel-indicators{
     margin: 0;
     position: absolute;
-    bottom: 115px;
+    top: 880px;
 }
 .project-main-content .carousel-indicators .active{
     width: 6px;
